@@ -16,4 +16,4 @@ and for setting your own meowFeed please look at the [wiki](https://github.com/M
 
 [Summary for project Supervisor](https://github.com/Moaad98/meowFeed/wiki/Summary-for-Project's-Supervisor)
 
-all 3D files are designed by [@Psy0rz] (https://github.com/psy0rz)
+all 3D files are designed by [@Psy0rz](https://github.com/psy0rz)
